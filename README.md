@@ -2,7 +2,7 @@
 
 <img src="<!-- PLACEHOLDER: Insert your photo here (e.g. IMG_9975.jpeg) -->" width="450">
 
-A plug-and-play real-time stats display for **BTC price** and your **Lightning Bounties** platform, running on a [LilyGo T-Display](https://www.lilygo.cc/products/ttgo-t-display) (ESP32) board. This device shows live metrics like the current Bitcoin (BTC) price in USD and stats from the Lightning Bounties API, rotating through all key platform stats on its crisp little screen.
+A plug-and-play real-time stats display for **BTC price** and your **Lightning Bounties** platform, running on a [LilyGo T-Display]([https://www.lilygo.cc/products/ttgo-t-display](https://lilygo.cc/products/lilygo%C2%AE-ttgo-t-display-1-14-inch-lcd-esp32-control-board?srsltid=AfmBOop1Orw54ybUnWBW5T9pSJAL4fXyroY8yj7QDUZamMnaSTNfYezn)) (ESP32) board. This device shows live metrics like the current Bitcoin (BTC) price in USD and stats from the Lightning Bounties API, rotating through all key platform stats on its crisp little screen.
 
 ---
 
@@ -19,7 +19,7 @@ A plug-and-play real-time stats display for **BTC price** and your **Lightning B
 
 ## 📸 Demo
 
-![Demo Photo](IMG_9975.jpeg)
+![Demo Photo](https://github.com/lightningbounties-dev/Lightning-Bounties-Stats-Display/blob/main/T-Display-LB-DATA/photos/IMG_9976.jpeg)
 *Replace with your own project photo!*
 
 ---
@@ -72,5 +72,6 @@ A plug-and-play real-time stats display for **BTC price** and your **Lightning B
 
 ## 📷 Gallery
 
-![Project Demo 1](IMG_9975.jpeg)
+![Project Demo 1](https://github.com/lightningbounties-dev/Lightning-Bounties-Stats-Display/blob/main/T-Display-LB-DATA/photos/IMG_9975.jpeg)
+![Project Demo 1](https://github.com/lightningbounties-dev/Lightning-Bounties-Stats-Display/blob/main/T-Display-LB-DATA/photos/IMG_9978.jpeg)
 
