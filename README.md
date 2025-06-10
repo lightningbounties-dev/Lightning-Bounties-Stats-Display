@@ -20,7 +20,6 @@ A plug-and-play real-time stats display for **BTC price** and your **Lightning B
 ## 📸 Demo
 
 ![Demo Photo](https://github.com/lightningbounties-dev/Lightning-Bounties-Stats-Display/blob/main/T-Display-LB-DATA/photos/IMG_9976.jpeg)
-*Replace with your own project photo!*
 
 ---
 
