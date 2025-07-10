@@ -64,7 +64,7 @@ A plug-and-play real-time stats display for **BTC price** and your **Lightning B
 - **Stats Rotate interval:** Change `ROTATE_MS` (default: 3 seconds).
 - **AP SSID:** Set `AP_SSID` at the top of the code.
 - **API Endpoints:** Can be updated in code (`BTC_API`, `LB_API`).
-
+🧪
 ---
 
 ---
